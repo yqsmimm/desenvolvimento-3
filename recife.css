@@ -30,4 +30,6 @@ p {
     height: auto;
     border-radius: 8px;
     margin-bottom: 10px;
+    justify-content: flex-start;
+
 }
