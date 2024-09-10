@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+.titulo {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+h1, h2, h3 {
+    color: #000000;
+}
+p {
+    color: #000000;
+}
+.ponto{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+.ponto img {
+    max-width: 100%;
+    align-items: center;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
